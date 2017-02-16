@@ -9,12 +9,15 @@ Welcome to getk's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+   :titlesonly:
 
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   1_why
+   2_technology
+   3_policy
+   4_history
+   5_european
+   6_international
+   7_question
+   8_key
+   9_glossary
+   
