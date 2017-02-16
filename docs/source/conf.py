@@ -45,9 +45,9 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'getk'
-copyright = u'2017, Jongkyu Kim'
-author = u'Jongkyu Kim'
+project = u'독일의 에너지전환'
+copyright = u'2017, 김종규'
+author = u'김종규'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
