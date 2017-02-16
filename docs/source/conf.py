@@ -133,7 +133,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
     (master_doc, 'getk.tex', u'getk Documentation',
-     u'Jongkyu Kim', 'manual'),
+     u'김종규', 'manual'),
 ]
 
 
