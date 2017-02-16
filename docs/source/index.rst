@@ -1,10 +1,5 @@
-.. getk documentation master file, created by
-   sphinx-quickstart on Thu Feb 16 17:06:25 2017.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
-Welcome to getk's documentation!
-================================
+Welcome to  ..
+==============================
 
 .. toctree::
    :maxdepth: 2
