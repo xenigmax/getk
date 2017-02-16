@@ -132,8 +132,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'getk.tex', u'Read The Docs Documentation',
-     u'Eric', 'manual'),
+    (master_doc, 'getk.tex', u'Read The Docs Documentation', u'Eric', 'manual'),
 ]
 
 
